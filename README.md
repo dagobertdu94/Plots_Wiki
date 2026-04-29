@@ -6,3 +6,9 @@ Please keep in mind, that it may take more time to answer here as I am more acti
 ### Plots was originally created by dagobertdu94!
 If you wish to contact me, please consider either opening an issue for it or joining my support discord server.
 I am NOT accepting DMs and friend requests on Discord, and I will IGNORE anyone in my Discord DMs who I don't know!
+
+## Support
+
+Discord: https://discord.gg/bjK7ECzG65 (*preferred*)
+
+GitHub: https://github.com/dagobertdu94/Plots_Wiki/issues
